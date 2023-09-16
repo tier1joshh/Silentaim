@@ -142,7 +142,7 @@ spawn(function()
     placemarker.Transparency = 1
     end
     if Settings.Kalslock.showdot then
-    makemarker(placemarker, placemarker, Color3.fromRGB(0,0,0), 0.80, 0)
+    makemarker(placemarker, placemarker, Color3.fromRGB(255,255,255), 0.80, 0)
     end
 end)
 
